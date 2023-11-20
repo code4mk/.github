@@ -6,8 +6,6 @@ Welcome to the code4mk organization on GitHub! 🌟
 
 code4mk is a community of dedicated developers passionate about creating open-source software and fostering knowledge-sharing. We believe in making software accessible to everyone, emphasizing projects that are user-friendly and easy to comprehend.
 
-Our repositories cover a diverse range of topics, including but not limited to:
-
 ## Featured Topics
 
 Our repositories cover a wide array of topics, showcasing the versatility of our projects. These include, but are not limited to:
@@ -32,6 +30,7 @@ Our repositories cover a wide array of topics, showcasing the versatility of our
 
 Explore our repositories to delve into these exciting topics and discover projects that suit your interests and expertise.
 
+## Educational Resources
 
 We also offer educational resources to help you deepen your understanding of software development:
 
@@ -56,4 +55,3 @@ Unless otherwise specified, all code in this organization is licensed under the 
 - Connect with us on LinkedIn: [code4mk](https://www.linkedin.com/in/code4mk/) 👥
 - Read our blog: [code4mk.medium.com](https://code4mk.medium.com) 📝
 - For inquiries, contact us via email: [hiremostafa@gmail.com](mailto:hiremostafa@gmail.com) 📬
-
