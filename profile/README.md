@@ -58,3 +58,27 @@ Unless otherwise specified, all code in this organization is licensed under the 
 - Connect with us on LinkedIn: [code4mk](https://www.linkedin.com/in/code4mk/) 👥
 - Read our blog: [code4mk.medium.com](https://code4mk.medium.com) 📝
 - For inquiries, contact us via email: [hiremostafa@gmail.com](mailto:hiremostafa@gmail.com) 📬
+
+  ---
+
+## 🚀 Hiring Opportunity: DevOps & Team Lead
+
+**Are you looking for a skilled DevOps engineer and experienced team lead?**
+
+We're excited to announce that [mostafa6765](https://github.com/mostafa6765), the maintainer of code4mk, is open to new opportunities!
+
+### 💼 What mostafa6765 brings to the table:
+
+- Extensive experience in DevOps practices and tools
+- Proven track record as a team lead
+- Deep knowledge of various programming languages and frameworks
+- Passion for open-source and community-driven development
+
+If you're seeking a talented individual to strengthen your team, don't miss this opportunity!
+
+📧 Contact: [hiremostafa@gmail.com](mailto:hiremostafa@gmail.com)  
+🔗 GitHub: [mostafa6765](https://github.com/mostafa6765)
+
+---
+![hiremostafa-banner-svg](https://github.com/user-attachments/assets/ec01f9d5-c4b6-4be6-882b-9bc8070638e2)
+
