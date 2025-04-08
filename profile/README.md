@@ -79,7 +79,5 @@ If you're seeking a talented individual to strengthen your team, don't miss this
 📧 Contact: [hiremostafa@gmail.com](mailto:hiremostafa@gmail.com)  
 🔗 GitHub: [mostafa6765](https://github.com/mostafa6765)
 
----
-![mostafa-hire-bannner](https://github.com/user-attachments/assets/0182f4f2-65b4-4208-9e58-7bbba79d8d00)
 
 
