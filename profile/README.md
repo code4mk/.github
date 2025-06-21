@@ -61,7 +61,7 @@ Unless otherwise specified, all code in this organization is licensed under the 
 
   ---
 
-## 🚀 Hiring Opportunity: DevOps & Team Lead
+## 🚀 Hiring Opportunity: Tech/Team Lead | DevOps
 
 **Are you looking for a skilled DevOps engineer and experienced team lead?**
 
