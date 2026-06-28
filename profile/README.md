@@ -1,4 +1,4 @@
-# code4mk 🚀
+# code4mk
 
 Welcome to the code4mk organization on GitHub! 🌟
 
@@ -6,7 +6,7 @@ Welcome to the code4mk organization on GitHub! 🌟
 
 code4mk is a community of dedicated developers passionate about creating open-source software and fostering knowledge-sharing. We believe in making software accessible to everyone, emphasizing projects that are user-friendly and easy to comprehend.
 
-## 🌈 Featured Topics
+## Featured Topics
 
 Our repositories cover a wide array of topics, showcasing the versatility of our projects. These include, but are not limited to:
 
@@ -30,7 +30,7 @@ Our repositories cover a wide array of topics, showcasing the versatility of our
 
 Explore our repositories to delve into these exciting topics and discover projects that suit your interests and expertise.
 
-## 🎓 Educational Resources
+## Educational Resources
 
 We also offer educational resources to help you deepen your understanding of software development:
 
@@ -59,25 +59,6 @@ Unless otherwise specified, all code in this organization is licensed under the 
 - Read our blog: [code4mk.medium.com](https://code4mk.medium.com) 📝
 - For inquiries, contact us via email: [hiremostafa@gmail.com](mailto:hiremostafa@gmail.com) 📬
 
-  ---
-
-## 🚀 Hiring Opportunity: Tech/Team Lead | DevOps
-
-**Are you looking for a skilled DevOps engineer and experienced team lead?**
-
-We're excited to announce that [mostafa6765](https://github.com/mostafa6765), the maintainer of code4mk, is open to new opportunities!
-
-### 💼 What mostafa6765 brings to the table:
-
-- Extensive experience in DevOps practices and tools
-- Proven track record as a team lead
-- Deep knowledge of various programming languages and frameworks
-- Passion for open-source and community-driven development
-
-If you're seeking a talented individual to strengthen your team, don't miss this opportunity!
-
-📧 Contact: [hiremostafa@gmail.com](mailto:hiremostafa@gmail.com)  
-🔗 GitHub: [mostafa6765](https://github.com/mostafa6765)
 
 
 
